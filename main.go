@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/hex"
 	"fmt"
-	"goRecrypt/curve"
-	"goRecrypt/recrypt"
+	"github.com/huybq2606/goRecrypt/curve"
+	"github.com/huybq2606/goRecrypt/recrypt"
 )
 
 func main() {
